@@ -5,7 +5,7 @@ I bridge the gap between **pixel-perfect design** and **scalable intelligent cod
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -17,21 +17,21 @@ I bridge the gap between **pixel-perfect design** and **scalable intelligent cod
 
 ---
 
-### 🌟 Featured Project: Gemini Vision Captioner
+### Featured Project: Gemini Vision Captioner
 **https://github.com/salbia512/ai-image-caption-generator**
 * Built a high-performance **Next.js** application that uses **Gemini 1.5 Flash** to analyze images and generate custom-toned social media captions.
 * **Key Features:** TypeScript for type safety, Tailwind CSS for a sleek UI, and custom prompt engineering for AI accuracy.
 
 ---
 
-### 📈 What I'm working on
-- 🤖 Integrating **Large Language Models** into web workflows.
-- 🏗️ Building responsive Admin Dashboards from **Figma** prototypes.
-- ⚡ Optimizing PostgreSQL queries for high-performance applications.
+### What I'm working on
+-  Integrating **Large Language Models** into web workflows.
+-  Building responsive Admin Dashboards from **Figma** prototypes.
+-  Optimizing PostgreSQL queries for high-performance applications.
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 - **Upwork:** https://www.upwork.com/freelancers/~01241a3f8ffa9421b2
 - **LinkedIn:** https://www.linkedin.com/in/salbiasalbia/
 - **Email:** salbiasyed@gmail.com
